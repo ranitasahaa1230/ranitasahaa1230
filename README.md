@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wyTt8Uo9YWGVtW3fKpcA03qmK609lI7P/view?usp=sharing](https://drive.google.com/file/d/1wyTt8Uo9YWGVtW3fKpcA03qmK609lI7P/view?usp=sharing)
 
-- ⚡ Fun fact **22's not really funny, XD!**
+- ⚡ Fun fact **22 is not really fun, XD!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
