@@ -1,6 +1,36 @@
 <h1 align="center">Hey 👋, I'm Ranita Saha</h1>
 <h3 align="center">A science and engineering enthusiast, passionate about learning and trying out new technologies</h3>
 
+# Arpit Dwivedi
+
+[![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/dwivedi-arpit/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![twitter](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/ttt.png)](https://twitter.com/sdwivediarpit)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![kaggle](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/kaggle.png)](https://www.kaggle.com/arpitdw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](mailto:8arpitdwivedi798@gmail.com)
+
+### Hi there 👋
+
+I am Arpit Dwivedi. My main interest lies in Machine Learning and Computer vision. I also have basic knowledge of Tableau and Docker. I am always curious to learn something new.
+
+
+
+- 🔭 I’m currently working on a Computer Vision project.
+
+- 🌱 I’m currently learning **best practices for ML** and **Big Data**.
+
+- 👯 I’m looking to collaborate on any **AI** or **Web Development** project.
+
+- 🤔 I’m looking for help with Docker deployment.
+
+- 💬 Ask me about OpenCV, Tensorflow, chatbots or ML.
+
+- 📫 ***How to reach me***: Contact me directly on this mail [8arpitdwivedi798@gmail.com](mailto:8arpitdwivedi798@gmail.com).
+
+- 😄 ***Pronouns:*** You can give one.
+
+- ⚡ ***Fun fact:*** I can work without music. 
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=arpit-dwivedi&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranitasahaa1230&label=Profile%20views&color=0e75b6&style=flat" alt="ranitasahaa1230" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
