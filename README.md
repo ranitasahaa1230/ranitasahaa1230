@@ -1,7 +1,8 @@
 <h1 align="center">Hey 👋, I'm Ranita Saha</h1>
 <h3 align="center">A science and engineering enthusiast, passionate about learning and trying out new technologies</h3>
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranitasahaa1230&label=Profile%20views&color=0e75b6&style=flat" alt="ranitasahaa1230" /> </p>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 🌱 I’m currently learning **NodeJs, ReactJs**
@@ -29,6 +30,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranitasahaa1230&show_icons=true&locale=en" alt="ranitasahaa1230" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranitasahaa1230&" alt="ranitasahaa1230" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranitasahaa1230&" alt="ranitasahaa1230" /></p>-->
 
 
