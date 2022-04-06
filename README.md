@@ -11,7 +11,7 @@
 
 - 📫 ***How to reach me***: Contact me directly on this mail [saharanitaa1230@gmail.com](mailto:saharanitaa1230@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wyTt8Uo9YWGVtW3fKpcA03qmK609lI7P/view?usp=sharing](https://drive.google.com/file/d/1wyTt8Uo9YWGVtW3fKpcA03qmK609lI7P/view?usp=sharing)
+<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1wyTt8Uo9YWGVtW3fKpcA03qmK609lI7P/view?usp=sharing](https://drive.google.com/file/d/1wyTt8Uo9YWGVtW3fKpcA03qmK609lI7P/view?usp=sharing) -->
 
 - ⚡ Fun fact **22 is not really fun, XD!**
 
