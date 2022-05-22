@@ -1,11 +1,11 @@
-<!-- <h1>Hey 👋, I'm Ranita </h1> -->
-## Hi there 👋🏻, I'm Ranita
-
+<h1 align="center"> Hi there 👋, I'm Ranita 👩‍💻 </h1>
+<!-- ## Hi there 👋🏻, I'm Ranita
+ -->
 <h3 align="center">A science and engineering enthusiast, passionate about learning and trying out new technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranitasahaa1230&label=Profile%20views&color=blueviolet&style=flat-square" alt="ranitasahaa1230" /> </p>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 🌱 I’m currently learning **Web Development**. Here's my beginner portfolio: [suitcase-full-of-sunshine-ranitasaha.netlify.app](https://suitcase-full-of-sunshine-ranitasaha.netlify.app/)
 
@@ -28,11 +28,11 @@
  -->
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://twitter.com/Ifullofsunshine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ifullofsunshine" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saharanitaa1230dreamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saharanitaa1230dreamer" height="30" width="40" /></a>
+<a href="https://twitter.com/Ifullofsunshine" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Ifullofsunshine"/></a>
+<a href="https://linkedin.com/in/saharanitaa1230dreamer" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="saharanitaa1230dreamer"/></a>
 <a href="https://saharanitaa.hashnode.dev/" target="blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" align="center"/></a> 
-<a href="https://bhavzlearn.hashnode.dev/" target="blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" align="center"/></a> 
-<a href="https://instagram.com/suitcase_full_of_sunshine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="suitcase_full_of_sunshine" height="30" width="40" /></a>
+<!-- <a href="https://peerlist.io/saharanitaa" target="blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" align="center"/></a>  -->
+<a href="https://instagram.com/suitcase_full_of_sunshine" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="suitcase_full_of_sunshine"/></a>
 </p>
 
 <br>
