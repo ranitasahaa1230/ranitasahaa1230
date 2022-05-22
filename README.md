@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranitasahaa1230&label=Profile%20views&color=blueviolet&style=flat-square" alt="ranitasahaa1230" /> </p>
 
-<img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img margin="auto" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 🌱 I’m currently learning **Web Development**. Here's my beginner portfolio: [suitcase-full-of-sunshine-ranitasaha.netlify.app](https://suitcase-full-of-sunshine-ranitasaha.netlify.app/)
 
