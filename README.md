@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranitasahaa1230&label=Profile%20views&color=blueviolet&style=flat-square" alt="ranitasahaa1230" /> </p>
 
-<img margin="auto" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<div align="center">
+<img alt="Coding" width="300" height="200" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+</div>
 
 - 🌱 I’m currently learning **Web Development**. Here's my beginner portfolio: [suitcase-full-of-sunshine-ranitasaha.netlify.app](https://suitcase-full-of-sunshine-ranitasaha.netlify.app/)
 
@@ -31,8 +33,8 @@
 <a href="https://twitter.com/Ifullofsunshine" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Ifullofsunshine"/></a>
 <a href="https://linkedin.com/in/saharanitaa1230dreamer" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="saharanitaa1230dreamer"/></a>
 <a href="https://saharanitaa.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" align="center"/></a> 
-<!-- <a href="https://peerlist.io/saharanitaa" target="blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" align="center"/></a>  -->
 <a href="https://instagram.com/suitcase_full_of_sunshine" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="suitcase_full_of_sunshine"/></a>
+<a href="https://peerlist.io/saharanitaa" target="_blank"><img src="https://github.com/Siddhant-K-code/Siddhant-K-code/raw/master/PL%20Logo%20-%20Primary.svg" align="center"/></a> 
 </p>
 
 <br>
