@@ -34,7 +34,7 @@
 <a href="https://linkedin.com/in/saharanitaa1230dreamer" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="saharanitaa1230dreamer"/></a>
 <a href="https://saharanitaa.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" align="center"/></a> 
 <a href="https://instagram.com/suitcase_full_of_sunshine" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="suitcase_full_of_sunshine"/></a>
-<a href="https://peerlist.io/saharanitaa" target="_blank"><img src="https://github.com/Siddhant-K-code/Siddhant-K-code/raw/master/PL%20Logo%20-%20Primary.svg" align="center"/></a> 
+<a href="https://peerlist.io/saharanitaa" target="_blank"><img src="https://github.com/Siddhant-K-code/Siddhant-K-code/raw/master/PL%20Logo%20-%20Primary.svg" align="center" width="110"/></a> 
 </p>
 
 <br>
