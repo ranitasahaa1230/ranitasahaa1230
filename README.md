@@ -9,7 +9,7 @@
 <img alt="Coding" width="300" height="200" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 </div>
 
-- 🌱 I’m currently learning **Redux and Typescript**. Here's my beginner portfolio: [suitcase-full-of-sunshine-ranitasaha.netlify.app](https://suitcase-full-of-sunshine-ranitasaha.netlify.app/)
+- 🌱 I’m currently learning **Redux and Typescript**. Here's my beginner portfolio: [ranitasaha.netlify.app](https://ranitasaha.netlify.app/)
 
 - 👯 I’m looking to collaborate on any **Web Development** project.
 
