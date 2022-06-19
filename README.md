@@ -29,6 +29,20 @@
 
 <!-- - ⚡ Fun fact **22 is not really fun, XD!**
  -->
+ 
+ <h2 align="left">Read my Blogs:</h2>
+<p align="left">
+  <a href="https://saharanitaa.hashnode.dev/" target="blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" align="center"/></a> 
+<a href="https://dev.to/ranitasahaa1230" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" align="center"/></a> 
+     <ul>
+          <li><a href="https://saharanitaa.hashnode.dev/introduction-to-promises-and-async-and-await-promises-in-javascript" target="blank">Introduction to Promises and Async and Await Promises in Javascript</a></li>
+          <li><a href="https://saharanitaa.hashnode.dev/javascript-higher-order-functions-map-filter-reduce" target="blank">avascript: Higher Order Functions (map , filter , reduce)</a></li>
+          <li><a href="https://saharanitaa.hashnode.dev/explanation-of-javascript-closures" target="blank"Explanation of JavaScript Closures</a></li>
+     </ul>     
+</p>
+
+<br>
+ 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/Ifullofsunshine" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Ifullofsunshine"/></a>
