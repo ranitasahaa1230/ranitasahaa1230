@@ -36,8 +36,8 @@
 <a href="https://dev.to/ranitasahaa1230" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" align="center"/></a> 
      <ul>
           <li><a href="https://saharanitaa.hashnode.dev/introduction-to-promises-and-async-and-await-promises-in-javascript" target="blank">Introduction to Promises and Async and Await Promises in Javascript</a></li>
-          <li><a href="https://saharanitaa.hashnode.dev/javascript-higher-order-functions-map-filter-reduce" target="blank">avascript: Higher Order Functions (map , filter , reduce)</a></li>
-          <li><a href="https://saharanitaa.hashnode.dev/explanation-of-javascript-closures" target="blank"Explanation of JavaScript Closures</a></li>
+          <li><a href="https://saharanitaa.hashnode.dev/javascript-higher-order-functions-map-filter-reduce" target="blank">Javascript: Higher Order Functions (map , filter , reduce)</a></li>
+          <li><a href="https://saharanitaa.hashnode.dev/explanation-of-javascript-closures" target="blank">Explanation of JavaScript Closures</a></li>
      </ul>     
 </p>
 
