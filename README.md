@@ -10,11 +10,11 @@
 <img alt="Coding" width="300" height="200" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 </div>
 
-- 🌱 I’m currently learning **Redux and Typescript**. Here's my beginner portfolio: [ranitasaha.netlify.app](https://ranitasaha.netlify.app/)
+- 🌱 I’m currently learning **Redux and Typescript**. You can find all my work on Github, or here: [ranitasaha.netlify.app](https://ranitasaha.netlify.app/)
 
 - 👯 I’m looking to collaborate on any **Web Development** project.
 
--  💬 Ask me about **JavaScript and ReactJs**
+-  💬 Ask me about **JavaScript and ReactJS**
 
 - 📫 ***How to reach me***: Contact me directly on this mail [saharanitaa1230@gmail.com](mailto:saharanitaa1230@gmail.com)
 
