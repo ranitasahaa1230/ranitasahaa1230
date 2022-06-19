@@ -4,6 +4,7 @@
 <h3 align="center">A science and engineering enthusiast, passionate about learning and trying out new technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranitasahaa1230&label=Profile%20views&color=blueviolet&style=flat-square" alt="ranitasahaa1230" /> </p>
+<p><a href="https://twitter.com/Ifullofsunshine" target="blank"><img src="https://img.shields.io/twitter/follow/Ifullofsunshine?logo=twitter&color=blueviolet&style=flat-square&label=Follow" alt="Ifullofsunshine" /></a> </p>
 
 <div align="center">
 <img alt="Coding" width="300" height="200" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
